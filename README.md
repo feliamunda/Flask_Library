@@ -1,2 +1,2 @@
 # Flask_Library
-Library project with Flask (API)
+Testing project with Flask
